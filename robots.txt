@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://palitira1978.github.io/sitemap.xml
